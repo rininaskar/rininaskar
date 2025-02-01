@@ -3,7 +3,7 @@
 
 Recent Master's graduate with a keen interest in Full-Stack Development dedicated to learning, creating, and collaborating on impactful projects.
 
-💻 Hackerrank: https://www.hackerrank.com/profile/rininaskar
+💻 HackerRank: https://www.hackerrank.com/profile/rininaskar
 
 👨‍💻 FreeCodeCamp: https://www.freecodecamp.org/rininaskar
 
