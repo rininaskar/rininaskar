@@ -9,11 +9,11 @@ Recent Master's graduate with a keen interest in Full-Stack Development dedicate
 
 ## Skills
 
-| Languages  | [![](https://skillicons.dev/icons?i=py,java,js,c)](https://skillicons.dev) |
+| Languages  | [![](https://skillicons.dev/icons?i=js, java)](https://skillicons.dev) |
 | :-------------: | :-------------: |
-| Deployment | [![](https://skillicons.dev/icons?i=github,aws)](https://skillicons.dev) |
+| Deployment | [![](https://skillicons.dev/icons?i=github)](https://skillicons.dev) |
 | Database | [![](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) |
-| Framework | [![](https://skillicons.dev/icons?i=springflask,react)](https://go-skill-icons.vercel.app) |
+| Framework/Library | [![](https://skillicons.dev/icons?i=react)](https://go-skill-icons.vercel.app) |
 
 ## Connect with me 
 
