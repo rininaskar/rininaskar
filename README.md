@@ -9,7 +9,7 @@ Recent Master's graduate with a keen interest in Full-Stack Development dedicate
 
 ## Skills
 
-| Languages  | [![](https://skillicons.dev/icons?i=js, java)](https://skillicons.dev) |
+| Languages  | [![](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev) |
 | :-------------: | :-------------: |
 | Deployment | [![](https://skillicons.dev/icons?i=github)](https://skillicons.dev) |
 | Database | [![](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) |
